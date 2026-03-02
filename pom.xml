@@ -61,7 +61,7 @@
       -XX:HeapDumpPath=${project.build.directory} -XX:+ExitOnOutOfMemoryError
       -Dfile.encoding=UTF-8 --illegal-access=permit
     </failsafe.argLine>
-    <jackson.version>2.11.3</jackson.version>
+    <jackson.version>2.18.6</jackson.version>
     <jackson.databind.version>${jackson.version}</jackson.databind.version>
     <java.version>1.8</java.version>
     <java.version.eight>1.8</java.version.eight>
